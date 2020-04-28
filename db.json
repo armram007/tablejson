@@ -1,25 +1,24 @@
-[{
-
-name:Ram,
-age:18,
-sex:M
-},
 {
-
-name:Raj,
-age:20,
-sex:M
-},
-{
-
-name:Kumar,
-age:19,
-sex:M
-},
-{
-
-name:anbu,
-age:21,
-sex:M
+  "data": [
+    {
+      "name": "Ram",
+      "age": 18,
+      "sex": "M"
+    },
+    {
+      "name": "Raj",
+      "age": 20,
+      "sex": "M"
+    },
+    {
+      "name": "Kumar",
+      "age": 19,
+      "sex": "M"
+    },
+    {
+      "name": "anbu",
+      "age": 21,
+      "sex": "M"
+    }
+  ]
 }
-]
